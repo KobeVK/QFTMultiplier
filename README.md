@@ -1,7 +1,7 @@
 # Quantum Multiplier
 
 This program takes two integers as an input, and display their product (multiplaction)
-The implementation is based on Fourier basis addition and on this [papaer](https://arxiv.org/pdf/1411.5949v2.pdf).
+The implementation is based on Fourier basis addition and on this [paper](https://arxiv.org/pdf/1411.5949v2.pdf).
 
 # Functionality
 
