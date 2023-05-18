@@ -11,3 +11,5 @@ The size of the integers is limited by the specification of the backend that we 
 
 # Run
 To run the simulation, clone and open this repo onto a jupyter notebook and run main.ipynb
+
+## note: need to insert your ibm token onto ibm_token.txt before running 
